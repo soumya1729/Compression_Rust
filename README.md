@@ -1,2 +1,1 @@
-# Compression_Rust
-# Compression_Rust
+First rust project
